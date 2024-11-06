@@ -41,27 +41,27 @@ body{
 
 }
 
-.header .logo-seta, a:hover{
+.header .setinha, a:hover{
     cursor: pointer;
 }
 
-.logo-seta{
+.setinha{
     display: flex;
     margin: 0rem 1.5rem;
     padding-right: 0.2rem;
 }
 
-.logo-seta svg{
+.setinha svg{
     transition: .5s;
 }
 
-.logo-seta svg:hover{
+.setinha svg:hover{
     transform: rotate(180deg)
 
     
 }
 
-.logo-seta a{
+.setinha a{
     padding-right: 0rem;
 }
 
@@ -80,21 +80,8 @@ body{
 .header img{
     width: 12.8rem;
     height: 2.4rem;
-
-
-.material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
-    }
-
-
-
-
-
 }
+
 .header a img{
     width: 3.5rem;
     height: 3.5rem;
@@ -165,7 +152,7 @@ h1{
     width: 28rem;
 }
 
-.p small{
+.guia p{
     font-size: 1.2rem;
 }
 /* =========================canais========================= */
